@@ -1,3 +1,4 @@
+
 [CircleCI](https://circleci.com/gh/open-quantum-safe/liboqs/tree/main): ![Build status image](https://circleci.com/gh/open-quantum-safe/liboqs/tree/main.svg?style=svg), [TravisCI](https://travis-ci.com/github/open-quantum-safe/liboqs): [![Build Status](https://travis-ci.com/open-quantum-safe/liboqs.svg?branch=main)](https://travis-ci.com/open-quantum-safe/liboqs)
 
 liboqs
@@ -209,3 +210,11 @@ The OQS project was founded by Douglas Stebila and Michele Mosca at the Universi
 Financial support for the development of Open Quantum Safe has been provided by Amazon Web Services, the Canadian Centre for Cyber Security, Cisco, the Unitary Fund, the NGI Assure Fund, and VeriSign Inc.
 
 Research projects which developed specific components of OQS have been supported by various research grants, including funding from the Natural Sciences and Engineering Research Council of Canada (NSERC); see the source papers for funding acknowledgments.
+
+## ⭐ Thanks to our Stargazers!
+
+[![Stargazers repo roster for @brennercruvinel/CCPlugins](https://reporoster.com/stars/dark/brennercruvinel/CCPlugins)](https://github.com/brennercruvinel/CCPlugins/stargazers)
+
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=brennercruvinel/CCPlugins&type=Date)](https://star-history.com/#brennercruvinel/CCPlugins&Date)
